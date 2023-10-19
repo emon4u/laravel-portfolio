@@ -1,0 +1,102 @@
+{
+    "personalInfo": [
+        {
+            "title": "Full Name",
+            "value": "Emon Ahmed"
+        },
+        {
+            "title": "Age",
+            "value": "24 Years"
+        },
+        {
+            "title": "Nationality",
+            "value": "Bangladeshi"
+        },
+        {
+            "title": "Address",
+            "value": "Sylhet, Bangladesh"
+        },
+        {
+            "title": "Whatsapp",
+            "value": "+8801827685187"
+        },
+        {
+            "title": "Email",
+            "value": "emon82240@gmail.com"
+        },
+        {
+            "title": "Github",
+            "value": "emon4u"
+        },
+        {
+            "title": "Skype",
+            "value": "skype.ID"
+        },
+        {
+            "title": "Languages",
+            "value": "Bengali, English, Hindi"
+        },
+        {
+            "title": "Freelance",
+            "value": "Available"
+        }
+    ],
+    "experiences": [
+        {
+            "jobTitle": "Senior Developer",
+            "workingYear": "2019 - Present",
+            "companyName": "Tech Solutions Inc.",
+            "description": "Responsible for leading a team of developers and delivering high-quality projects."
+        },
+        {
+            "jobTitle": "Web Developer",
+            "workingYear": "2017 - 2019",
+            "companyName": "WebTech LLC",
+            "description": "Developed web applications and provided maintenance and support."
+        },
+        {
+            "jobTitle": "Junior Developer",
+            "workingYear": "2015 - 2017",
+            "companyName": "CodeCrafters",
+            "description": "Started my career as a junior developer and gained valuable experience."
+        }
+    ],
+    "educations": [
+        {
+            "passingYear": "2014",
+            "title": "Bachelor of Computer Science",
+            "institute": "Tech University",
+            "description": "Studied computer science and gained a strong foundation in programming."
+        },
+        {
+            "passingYear": "2010",
+            "title": "High School Diploma",
+            "institute": "City High School",
+            "description": "Completed high school with honors"
+        },
+        {
+            "passingYear": "2008",
+            "title": "Secondary School Diploma",
+            "institute": "City High School",
+            "description": "Completed secondary school with honors."
+        }
+    ],
+    "statsInfo": [
+        {
+            "count": "12",
+            "title": "Years of <br> experience"
+        },
+        {
+            "count": "97",
+            "title": "Completed <br> projects"
+        },
+        {
+            "count": "81",
+            "title": "Happy <br> Customers"
+        },
+        {
+            "count": "53",
+            "title": "Awards <br> win"
+        }
+    ]
+}

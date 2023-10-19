@@ -1,0 +1,191 @@
+[
+    {
+        "id": 1,
+        "title": "Project One",
+        "thumbnail": "https://placehold.co/340x210/AFD0BF/000000",
+        "bigThumbnail": "https://placehold.co/1110x410/AFD0BF/000000",
+        "metaInfo": [
+            {
+                "title": "Category",
+                "value": "Product Design"
+            },
+            {
+                "title": "Date",
+                "value": "2023-10-20"
+            },
+            {
+                "title": "Client",
+                "value": "XYZ Corporation"
+            }
+        ],
+        "description": "Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aufugit sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam estqui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid consequature"
+    },
+    {
+        "id": 2,
+        "title": "Project Two",
+        "thumbnail": "https://placehold.co/340x210/F4B266/000000",
+        "bigThumbnail": "https://placehold.co/1110x410/F4B266/000000",
+        "metaInfo": [
+            {
+                "title": "Category",
+                "value": "Product Design"
+            },
+            {
+                "title": "Date",
+                "value": "2023-10-20"
+            },
+            {
+                "title": "Client",
+                "value": "XYZ Corporation"
+            }
+        ],
+        "description": "Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aufugit sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam estqui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid consequature"
+    },
+    {
+        "id": 3,
+        "title": "Project Three",
+        "thumbnail": "https://placehold.co/340x210/E2EFDE/000000",
+        "bigThumbnail": "https://placehold.co/1110x410/E2EFDE/000000",
+        "metaInfo": [
+            {
+                "title": "Category",
+                "value": "Product Design"
+            },
+            {
+                "title": "Date",
+                "value": "2023-10-20"
+            },
+            {
+                "title": "Client",
+                "value": "XYZ Corporation"
+            }
+        ],
+        "description": "Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aufugit sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam estqui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid consequature"
+    },
+    {
+        "id": 4,
+        "title": "Project Four",
+        "thumbnail": "https://placehold.co/340x210/32E875/000000",
+        "bigThumbnail": "https://placehold.co/1110x410/32E875/000000",
+        "metaInfo": [
+            {
+                "title": "Category",
+                "value": "Product Design"
+            },
+            {
+                "title": "Date",
+                "value": "2023-10-20"
+            },
+            {
+                "title": "Client",
+                "value": "XYZ Corporation"
+            }
+        ],
+        "description": "Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aufugit sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam estqui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid consequature"
+    },
+    {
+        "id": 5,
+        "title": "Project Five",
+        "thumbnail": "https://placehold.co/340x210/56EEF4/000000",
+        "bigThumbnail": "https://placehold.co/1110x410/56EEF4/000000",
+        "metaInfo": [
+            {
+                "title": "Category",
+                "value": "Product Design"
+            },
+            {
+                "title": "Date",
+                "value": "2023-10-20"
+            },
+            {
+                "title": "Client",
+                "value": "XYZ Corporation"
+            }
+        ],
+        "description": "Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aufugit sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam estqui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid consequature"
+    },
+    {
+        "id": 6,
+        "title": "Project Six",
+        "thumbnail": "https://placehold.co/340x210/357DED/000000",
+        "bigThumbnail": "https://placehold.co/1110x410/357DED/000000",
+        "metaInfo": [
+            {
+                "title": "Category",
+                "value": "Product Design"
+            },
+            {
+                "title": "Date",
+                "value": "2023-10-20"
+            },
+            {
+                "title": "Client",
+                "value": "XYZ Corporation"
+            }
+        ],
+        "description": "Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aufugit sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam estqui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid consequature"
+    },
+    {
+        "id": 7,
+        "title": "Project Seven",
+        "thumbnail": "https://placehold.co/340x210/ffb703/000000",
+        "bigThumbnail": "https://placehold.co/1110x410/ffb703/000000",
+        "metaInfo": [
+            {
+                "title": "Category",
+                "value": "Product Design"
+            },
+            {
+                "title": "Date",
+                "value": "2023-10-20"
+            },
+            {
+                "title": "Client",
+                "value": "XYZ Corporation"
+            }
+        ],
+        "description": "Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aufugit sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam estqui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid consequature"
+    },
+    {
+        "id": 8,
+        "title": "Project Eight",
+        "thumbnail": "https://placehold.co/340x210/84a98c/000000",
+        "bigThumbnail": "https://placehold.co/1110x410/84a98c/000000",
+        "metaInfo": [
+            {
+                "title": "Category",
+                "value": "Product Design"
+            },
+            {
+                "title": "Date",
+                "value": "2023-10-20"
+            },
+            {
+                "title": "Client",
+                "value": "XYZ Corporation"
+            }
+        ],
+        "description": "Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aufugit sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam estqui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid consequature"
+    },
+    {
+        "id": 9,
+        "title": "Project Nine",
+        "thumbnail": "https://placehold.co/340x210/c9ada7/000000",
+        "bigThumbnail": "https://placehold.co/1110x410/c9ada7/000000",
+        "metaInfo": [
+            {
+                "title": "Category",
+                "value": "Product Design"
+            },
+            {
+                "title": "Date",
+                "value": "2023-10-20"
+            },
+            {
+                "title": "Client",
+                "value": "XYZ Corporation"
+            }
+        ],
+        "description": "Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aufugit sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam estqui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid consequature"
+    }
+]
